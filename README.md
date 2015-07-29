@@ -9,6 +9,8 @@ Louis Mar 04, 1985
 Mark	 Jul 23, 1976
 Lily	 Jul 29, 2015
 
+if current date is Jul 29,2015
+
 Lily	 Jul 29, 2015
 Sam	 Jan 01, 2001
 Louis Mar 04, 1985
